@@ -1,8 +1,8 @@
 # A Whale Breaching Through a Glass City at Sunrise
 
-[![Built on make.fun](https://img.shields.io/badge/built%20on-make.fun-6366f1)](https://make.fun)
-[![Competition ai-excited-01](https://img.shields.io/badge/competition-ai--excited--01-0ea5e9)](https://make.fun/c/ai-excited-01)
-[![Whale at sunrise](https://img.shields.io/badge/entry-whale%20at%20sunrise-f59e0b)](https://make.fun)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/mannn7/makefun-ai-excited/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/mannn7/makefun-ai-excited/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 An entry for the [make.fun](https://make.fun) competition **ai-excited-01** —
 "Make the AI judge excited".
